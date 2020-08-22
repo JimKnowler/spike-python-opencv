@@ -18,6 +18,6 @@ Requirements
 # Notes
 
 If python crashes in spikes requiring a Video Camera then check which terminal you are using:
-    - commonly seeing this crash when running from terminal with Visual Studio Code
-    - successfuly running Video Camera spikes when running from iterm
-    - It apepars MacOSCatalina wants to make sure your application (/terminal) has permission to access the camera
+- commonly seeing this crash when running from terminal with Visual Studio Code
+- successfuly running Video Camera spikes when running from iterm
+- It appears MacOSCatalina wants to make sure your application (/terminal) has permission to access the camera
